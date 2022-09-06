@@ -1,18 +1,18 @@
 awscli==1.18.207
 dvc==1.11.9
 editdistance==0.5.3
-fastapi==0.63.0
+fastapi==0.82.0
 gensim==3.8.3
 great-expectations==0.13.4
 httptools==0.1.1
 matplotlib==3.3.2
-mlflow==1.13
+mlflow==1.28.0
 nrclex==2.0.2
 pip-chill==1.0.0
 plotly==4.11.0
 pytest==6.0.2
 python-dotenv==0.15.0
-pytorch-lightning==1.1.2
+pytorch-lightning==1.7.4
 shap==0.37.0
 sklearn==0.0
 torchvision==0.8.2
@@ -24,4 +24,4 @@ uvicorn==0.13.3
 uvloop==0.14.0
 vadersentiment==3.3.2
 watchgod==0.6
-websockets==8.1
+websockets==10.3
